@@ -95,6 +95,7 @@ La aplicación presenta un problema que consiste en que cuando se desea cambiar 
 
 
 **Referencias**
+
 (2023). Obtenido de Plotly: https://plotly.com/python/candlestick-charts/
 
 Fernando, J. (15 de julio de 2022). Obtenido de Investopedia: https://www.investopedia.com/terms/r/rsi.asp
