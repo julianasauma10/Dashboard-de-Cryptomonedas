@@ -96,8 +96,11 @@ La aplicación presenta un problema que consiste en que cuando se desea cambiar 
 
 **Referencias**
 (2023). Obtenido de Plotly: https://plotly.com/python/candlestick-charts/
+
 Fernando, J. (15 de julio de 2022). Obtenido de Investopedia: https://www.investopedia.com/terms/r/rsi.asp
+
 Martin Villaverde, G. (2022). Streamlit.
+
 Mitchell, C. (1 de abril de 2021). Obtenido de The balance: https://www.thebalancemoney.com/use-relative-strength-to-find-the-best-day-trades-1030883
 
 
